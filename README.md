@@ -1,0 +1,2 @@
+# Ecommerce
+This website provides a delightful purchasing experience for makeup enthusiasts.  HTML5 is used to design the structure and formatting of web pages. CSS3 is used to style and embellish a website, making it visually enticing. To add interactivity, manage dynamic content, and provide a seamless user experience using JavaScript. The website's user interface is intuitive, allowing for simple navigation and quick access to various categories and products of cosmetics. 
